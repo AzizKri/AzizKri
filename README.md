@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Active Computer Science student at the United Arab Emirates (UAE) University<br>🔭 Currently working on a website<br>🌱 Learning Python, Java, and JS<br>🖥️ Experienced game developer & 3D modeller<br><br>
+📚 Active Computer Science student at the United Arab Emirates (UAE) University<br>🌱 Learning Python, Java, and web development<br>🖥️ Experienced game developer & 3D modeller<br><br>
 
 
 ## 🌐 Socials:
